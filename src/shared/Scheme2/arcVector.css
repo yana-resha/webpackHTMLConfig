@@ -1,0 +1,17 @@
+
+
+svg {
+  max-width: 650px;
+}
+
+.vector {
+  fill:none;
+  stroke:#704293;
+  stroke-miterlimit:10;
+}
+
+.textSvg {
+  font-size:12px;
+  fill:#3b2e87;
+  /* stroke:#3b2e87; */
+}
